@@ -28,7 +28,7 @@ public class NumberOccurenceInArray1 {
                 j++;
             }
         }
-
+        System.out.println("l");
 
     }
 
